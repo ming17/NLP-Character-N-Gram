@@ -1,0 +1,525 @@
+Mode: Linear Interpolation Equal Lambdas
+
+Sentence: Musharraf's Last Act?
+        Unigram perplexity is 31.903108366595323
+        Bigram perplexity is 13.954130988721612
+        Trigram perplexity is 10.24803761022591
+
+Sentence: General Musharraf appeared on the national scene on October 12, 1999, when he ousted an elected government and announced an ambitious "nation-building" project.
+        Unigram perplexity is 55.59799427070211
+        Bigram perplexity is 25.83103228491096
+        Trigram perplexity is 19.238023601619084
+
+Sentence: Many Pakistanis, disillusioned with Pakistan's political class, remained mute, thinking that he might deliver.
+        Unigram perplexity is 77.28419064173063
+        Bigram perplexity is 36.97488190805613
+        Trigram perplexity is 26.796783222992026
+
+Sentence: The September 11, 2001, terrorist attacks on America brought Musharraf into the international limelight as he agreed to ditch the Taliban and
+support the United States-led war on terror.
+        Unigram perplexity is 97.13420140664562
+        Bigram perplexity is 48.32017318895419
+        Trigram perplexity is 34.419917627611056
+
+Sentence: Musharraf clamped down on some religious militants operating inside Pakistan and also on those fighting Indian forces in Kashmir.
+        Unigram perplexity is 115.93011952423676
+        Bigram perplexity is 60.122049638550614
+        Trigram perplexity is 43.3365070295057
+
+Sentence: As a result, Pakistan was rewarded with American financial assistance and arms.
+        Unigram perplexity is 134.74010416209364
+        Bigram perplexity is 71.25059826290652
+        Trigram perplexity is 51.39147634683792
+
+Sentence: In furtherance of his re-alignment, Musharraf sent the Pakistani army into the tribal areas bordering Afghanistan for the first time since Pakistan's independence.
+        Unigram perplexity is 153.6050779001833
+        Bigram perplexity is 82.15685416732711
+        Trigram perplexity is 59.92421477391532
+
+Sentence: Operations there against Taliban and al-Qaeda forces brought mixed results.
+        Unigram perplexity is 174.71856708565633
+        Bigram perplexity is 95.9975411292168
+        Trigram perplexity is 69.774704834559
+
+Sentence: Although the US viewed Musharraf as an agent of change, he has never achieved domestic political legitimacy, and his policies were seen as rife with contradictions.
+        Unigram perplexity is 193.20736598576428
+        Bigram perplexity is 106.67984644889735
+        Trigram perplexity is 77.6143170062323
+
+Sentence: For example, he made alliances with Islamist political forces (who in 2004 voted for constitutional changes legitimizing his position and actions).
+        Unigram perplexity is 216.74165390556294
+        Bigram perplexity is 118.13114070511574
+        Trigram perplexity is 85.6401296759675
+
+Sentence: At the same time, he sidelined moderate, mainstream political leaders while claiming that he stood for "enlightened moderation."
+        Unigram perplexity is 235.87941669389346
+        Bigram perplexity is 129.77265384505256
+        Trigram perplexity is 94.0101074038364
+
+Sentence: A series of ill-planned military operations in the tribal areas further complicated the situation in the volatile border region.
+        Unigram perplexity is 253.5401902364494
+        Bigram perplexity is 140.23371883960976
+        Trigram perplexity is 101.26921499446982
+
+Sentence: Last March, Musharraf took his boldest step, removing the Chief Justice of the Supreme Court, Iftikhar Chaudhry.
+        Unigram perplexity is 274.9001084136354
+        Bigram perplexity is 152.27963353670415
+        Trigram perplexity is 110.81787122375185
+
+Sentence: To the surprise of many, the country's legal community organized a nation-wide movement to restore the Chief Justice to his post.
+        Unigram perplexity is 294.8882502543187
+        Bigram perplexity is 162.67694374756445
+        Trigram perplexity is 117.72151558211254
+
+Sentence: Hundreds of thousands of ordinary people demanded the rule of law and the supremacy of the constitution, emboldening the judiciary and changing the country's political dynamic.
+        Unigram perplexity is 315.2162365940001
+        Bigram perplexity is 173.51129834856806
+        Trigram perplexity is 125.2473336084327
+
+Sentence: In a historic ruling that Musharraf had little choice but to accept, the Supreme Court itself reinstated the Chief Justice in July.
+        Unigram perplexity is 333.89250634518976
+        Bigram perplexity is 184.18947016750863
+        Trigram perplexity is 133.47294669517274
+
+Sentence: Subsequently, the energized judiciary continued ruling against government decisions, embarrassing the government -- especially its intelligence agencies.
+        Unigram perplexity is 356.057640022919
+        Bigram perplexity is 196.16783752251192
+        Trigram perplexity is 141.1431931396025
+
+Sentence: Government officials were held accountable for actions that were usually beyond the reach of the law, ranging from brutal beatings of journalists, to illegal confinement for "national security."
+        Unigram perplexity is 377.1254427438776
+        Bigram perplexity is 207.77114911364876
+        Trigram perplexity is 148.79575608518974
+
+Sentence: Musharraf and his political allies tried to adjust to this new reality, but their patience ran out when the Supreme Court took up petitions against Musharraf's decision to run for president.
+        Unigram perplexity is 395.21992605591277
+        Bigram perplexity is 218.6757809180467
+        Trigram perplexity is 156.56991893816837
+
+Sentence: According to the constitution (originally promulgated in 1973 by an elected parliament), a serving military official cannot run for an elected office.
+        Unigram perplexity is 418.38035862874443
+        Bigram perplexity is 230.76188999821974
+        Trigram perplexity is 164.98165796845362
+
+Sentence: Musharraf was not ready to give up his military post, but also wanted to be a civilian president.
+        Unigram perplexity is 437.2714515451571
+        Bigram perplexity is 241.955038840088
+        Trigram perplexity is 172.67874492674758
+
+Sentence: While he announced that he would leave his military position "if" he was elected president, his track record of reneging on his promises haunted the judiciary.
+        Unigram perplexity is 457.22619154796695
+        Bigram perplexity is 252.06706730617023
+        Trigram perplexity is 179.87330872213795
+
+Sentence: The proceedings of the court over the last few weeks made Musharraf jittery.
+        Unigram perplexity is 476.74174242862995
+        Bigram perplexity is 263.1291110147472
+        Trigram perplexity is 187.550508452707
+
+Sentence: The decision of the 11-member bench might easily have gone against him.
+        Unigram perplexity is 498.7188193464766
+        Bigram perplexity is 274.9535761693873
+        Trigram perplexity is 195.63563865546925
+
+Sentence: Legally cornered, Musharraf has now decided to abandon constitutionality, removing the leading judges of the Supreme Court and provincial high courts and putting curbs on the media.
+        Unigram perplexity is 518.6248753616807
+        Bigram perplexity is 285.89858796514125
+        Trigram perplexity is 203.12040076716045
+
+Sentence: Lawyers, human rights activists, and political leaders have since been arrested.
+        Unigram perplexity is 538.171572318195
+        Bigram perplexity is 297.8229447048008
+        Trigram perplexity is 211.15533460417683
+
+Sentence: There is widespread public resentment in response to these moves.
+        Unigram perplexity is 555.1618797997974
+        Bigram perplexity is 307.3719983275143
+        Trigram perplexity is 217.70218225527617
+
+Sentence: Rather than taking responsibility for the deteriorating security situation (as evidenced by regular suicide bomb attacks) and the increasing Talibanization of the tribal areas, Musharraf has tried to blame the judiciary and media.
+        Unigram perplexity is 575.2668875025489
+        Bigram perplexity is 318.6131007006851
+        Trigram perplexity is 225.93377144564636
+
+Sentence: To be sure, in some cases, judicial activism was obvious (though within the realm of constitutional law), and the media also made mistakes; but by no stretch of the imagination can these be linked to religious extremism or support for militancy.
+        Unigram perplexity is 595.5389129730996
+        Bigram perplexity is 329.59104080087525
+        Trigram perplexity is 233.4659663583823
+
+Sentence: It is unlikely that Musharraf's latest gambit will succeed, as his popular support is at its lowest ebb.
+        Unigram perplexity is 615.9422574764762
+        Bigram perplexity is 342.06641164619543
+        Trigram perplexity is 242.30011059016564
+
+Sentence: Pakistan's armed forces -- repeated targets of suicide bombers -- have become demoralized.
+        Unigram perplexity is 640.7832267354895
+        Bigram perplexity is 354.1263254560499
+        Trigram perplexity is 251.16417202179116
+
+Sentence: It is difficult to imagine them standing with Musharraf should civil conflict erupt.
+        Unigram perplexity is 660.8482970772994
+        Bigram perplexity is 366.6584012393615
+        Trigram perplexity is 260.70135604784434
+
+Sentence: Nor can a weak, embattled, and disoriented Musharraf be expected to fight Islamic militancy effectively or bring political stability to Pakistan.
+        Unigram perplexity is 681.3835167715622
+        Bigram perplexity is 379.015539972984
+        Trigram perplexity is 269.0343111301733
+
+Sentence: Opposition political parties are drawing closer together, and former Prime Minister Benazir Bhutto, despite progress in her power-sharing negotiations with Musharraf, has strongly condemned his actions.
+        Unigram perplexity is 700.6970047319392
+        Bigram perplexity is 390.69942395364035
+        Trigram perplexity is 277.4532008449812
+
+Sentence: Human rights bodies, media associations, and lawyers' organizations are expected to defy the emergency, which will pit them against the security forces.
+        Unigram perplexity is 721.2732547894891
+        Bigram perplexity is 403.11429056901204
+        Trigram perplexity is 285.65871033522916
+
+Sentence: Terrorists may also benefit by attacking a preoccupied army and political forces aligned with Musharraf.
+        Unigram perplexity is 741.5583283226207
+        Bigram perplexity is 415.72088068113976
+        Trigram perplexity is 294.6353585346019
+
+Sentence: In the event of sustained protests and potential violence, top military commanders may decide to send Musharraf home -- a decision that would
+not be unprecedented in Pakistan's chronically turbulent history.
+        Unigram perplexity is 760.6971115177391
+        Bigram perplexity is 426.6498478904377
+        Trigram perplexity is 302.783187158513
+
+Sentence: The Making of a Murder in Pakistan
+        Unigram perplexity is 780.37419185499
+        Bigram perplexity is 436.485321758979
+        Trigram perplexity is 309.82861568527187
+
+Sentence: Instead, Bhutto had to pay with her life for courageously challenging extremists of all stripes -- from Al-Qaeda and Taliban to the country's
+religious political parties and military hardliners.
+        Unigram perplexity is 801.1984765224124
+        Bigram perplexity is 448.8866879857518
+        Trigram perplexity is 319.54434274622037
+
+Sentence: As heir to Zulfikar Ali Bhutto, the legendary democratic leader who was hanged by General Muhammad Zia-ul-Haq's government in 1979, Benazir emerged as a symbol of resistance at a young age -- but languished in jails and exile in the 1980's.
+        Unigram perplexity is 827.5374136731224
+        Bigram perplexity is 462.8115622327514
+        Trigram perplexity is 330.8400671299131
+
+Sentence: Z. A. Bhutto's legacy was empowerment of the impoverished and defense of ordinary people's rights amid feudalistic politics and military rule.
+        Unigram perplexity is 849.287791794466
+        Bigram perplexity is 474.96164564476607
+        Trigram perplexity is 339.88577122564817
+
+Sentence: Rather than bowing to the military junta, he embraced the gallows.
+        Unigram perplexity is 869.531660219161
+        Bigram perplexity is 485.04079166819747
+        Trigram perplexity is 347.63442953763706
+
+Sentence: Hours before his hanging, Benazir was allowed to see her father for the last time, writing in her autobiography: "I told him on my oath in his death cell, I would carry on his work."
+        Unigram perplexity is 890.4292556031296
+        Bigram perplexity is 496.1266392303755
+        Trigram perplexity is 355.8011033585261
+
+Sentence: She largely lived up to the promise.
+        Unigram perplexity is 910.0317740399769
+        Bigram perplexity is 505.7498587153187
+        Trigram perplexity is 361.54600928897736
+
+Sentence: Her first stint as prime minister (1988-90) was brief and disorganized.
+        Unigram perplexity is 943.9131199070958
+        Bigram perplexity is 521.57615248894
+        Trigram perplexity is 374.3840646699917
+
+Sentence: Lt. Gen. Hamid Gul, the former Inter-Services Intelligence (ISI) chief, confirmed that he sponsored an alliance of right-wing political parties to stop her from getting a parliamentary majority.
+        Unigram perplexity is 964.8242131964677
+        Bigram perplexity is 533.4588212973752
+        Trigram perplexity is 382.86998068690156
+
+Sentence: Information about Pakistan's nuclear program and ISI operations in Afghanistan were out of her domain.
+        Unigram perplexity is 983.9309353970755
+        Bigram perplexity is 545.0306547564729
+        Trigram perplexity is 391.3005838434937
+
+Sentence: Her second term in office (1993-96) was longer and better, but her government again fell early, owing to charges of mismanagement and corruption.
+        Unigram perplexity is 1008.8978155536317
+        Bigram perplexity is 557.6609126869452
+        Trigram perplexity is 400.0812336145335
+
+Sentence: In reality, machinations by the intelligence agencies also played a part.
+        Unigram perplexity is 1027.6086671655753
+        Bigram perplexity is 568.4616155222884
+        Trigram perplexity is 407.4410097812462
+
+Sentence: The military had developed an entrenched distrust of her, given her position as a popularly supported pro-Western leader who wanted peace with India.
+        Unigram perplexity is 1046.3350494782915
+        Bigram perplexity is 579.0429840283198
+        Trigram perplexity is 415.313189883587
+
+Sentence: After almost a decade in self-imposed exile, Bhutoo's return to Pakistan in October gave her a fresh political start.
+        Unigram perplexity is 1065.930009019949
+        Bigram perplexity is 591.7270675483967
+        Trigram perplexity is 425.0367524822378
+
+Sentence: Pakistan had changed, as military dictatorship and religious extremism in the north played havoc with the fabric of society.
+        Unigram perplexity is 1085.758997280161
+        Bigram perplexity is 603.5343124262838
+        Trigram perplexity is 434.0461774919399
+
+Sentence: A tentative arrangement with Musharraf, together with Western support -- particularly from the United Kingdom and the United States -- eased her return, which hundreds of thousands of people welcomed, though terrorists greeted her with a string of suicide bombings.
+        Unigram perplexity is 1105.2204318469333
+        Bigram perplexity is 615.3312652228401
+        Trigram perplexity is 442.2597810963792
+
+Sentence: Bhutto's contacts with Mushararf's military government drew criticism, but she remained adamant that a return to democracy was possible only through a transition in which Musharraf would give up his military post, become a civilian head of state, and conduct free and fair elections.
+        Unigram perplexity is 1124.7203542082761
+        Bigram perplexity is 627.1088309635225
+        Trigram perplexity is 450.47375462104645
+
+Sentence: To the dismay of some democratic forces, Bhutto stayed the course even after Musharraf imposed emergency rule on November 3 and removed the country's top judges to ensure his re-election.
+        Unigram perplexity is 1144.4870124050053
+        Bigram perplexity is 638.4844407041512
+        Trigram perplexity is 458.27770006394854
+
+Sentence: Indeed, she even persuaded other important political leaders to participate in the planned January 8 election, which she viewed as an opportunity to challenge religious extremist forces in the public square.
+        Unigram perplexity is 1163.7004787384674
+        Bigram perplexity is 649.1731852807861
+        Trigram perplexity is 465.936522269708
+
+Sentence: She seized that opportunity by bravely traveling throughout the country, despite serious threats to her life, arguing for a democratic and pluralistic Pakistan.
+        Unigram perplexity is 1183.727347899814
+        Bigram perplexity is 660.366232509334
+        Trigram perplexity is 473.69180171978826
+
+Sentence: One can understand why religious extremists like Al-Qaeda and Taliban would target her, and the government claims that it is impossible to defend against a suicide attack.
+        Unigram perplexity is 1203.0801304357765
+        Bigram perplexity is 672.2409865944169
+        Trigram perplexity is 482.21778802469964
+
+Sentence: But Bhutto was reportedly killed by a sharp shooter before the terrorist blew himself up.
+        Unigram perplexity is 1222.9955590630032
+        Bigram perplexity is 684.8798134882536
+        Trigram perplexity is 491.0978575838579
+
+Sentence: So, in the eyes of Pakistan's people, and especially of Bhutto's supporters, the intelligence services, either alone or in collaboration with
+extremists, finally decided to eliminate her.
+        Unigram perplexity is 1242.382039689448
+        Bigram perplexity is 695.5791712143633
+        Trigram perplexity is 498.79228718958274
+
+Sentence: Whether or not the government was involved, the fact remains that Pakistan has lost a desperately needed leader.
+        Unigram perplexity is 1260.0088510380413
+        Bigram perplexity is 705.9081449386756
+        Trigram perplexity is 505.68121135844905
+
+Sentence: With Pakistan's future in the balance, the West's help and support will be crucial, but that means recognizing that Musharraf is not the only
+leader who can resolve Pakistan's myriad problems and manage the war on terror.
+        Unigram perplexity is 1280.2260067302125
+        Bigram perplexity is 716.8060768973535
+        Trigram perplexity is 513.299514823544
+
+Sentence: On the contrary, by nurturing the current environment of instability and uncertainty, Musharraf himself must be regarded as one of Pakistan's
+biggest problems.
+        Unigram perplexity is 1300.4932007220837
+        Bigram perplexity is 728.1803062304498
+        Trigram perplexity is 521.0721017146163
+
+Sentence: Exorcising Musharraf's Ghost
+        Unigram perplexity is 1327.725746162781
+        Bigram perplexity is 744.0688165418243
+        Trigram perplexity is 533.9745903788147
+
+Sentence: Unlike Iraq and Afghanistan, democracy is not new to this 60-year-old state, but ethnic cleavages, weak institutions, and religious extremism
+in the North are perennially destabilizing.
+        Unigram perplexity is 1349.5482839641907
+        Bigram perplexity is 757.0171906462455
+        Trigram perplexity is 543.2360215484323
+
+Sentence: And, while the new government settles in and establishes its priorities, the West, especially the United States, must reassess the impact of its past dealings with Pakistan.
+        Unigram perplexity is 1367.0247678414582
+        Bigram perplexity is 767.1707862163433
+        Trigram perplexity is 550.2092388177973
+
+Sentence: Pakistan's new prime minister, Yousaf Gilani, is a seasoned politician and, more importantly, has Sufi family roots, which is a good omen because of the Sufi tradition of tolerance.
+        Unigram perplexity is 1386.2671652712354
+        Bigram perplexity is 778.4873923069131
+        Trigram perplexity is 558.4234502927657
+
+Sentence: Gilani unequivocally declared in his inaugural address that fighting terrorism is a top priority, and his first decision was to release from house arrest judges deposed by Musharraf.
+        Unigram perplexity is 1405.7281920965931
+        Bigram perplexity is 790.474102288167
+        Trigram perplexity is 566.8794470512369
+
+Sentence: The respite from the horrendous spate of suicide bombings since the new government assumed power is similarly heartening.
+        Unigram perplexity is 1423.9725867904879
+        Bigram perplexity is 801.8654389221833
+        Trigram perplexity is 575.1560684330038
+
+Sentence: But the honeymoon period is coming to an end.
+        Unigram perplexity is 1441.6679951840517
+        Bigram perplexity is 811.658853719917
+        Trigram perplexity is 582.306516054542
+
+Sentence: Already, in Gilani's hometown of Multan, rioters attacked government offices and banks to protest electricity disruptions.
+        Unigram perplexity is 1461.9325092065967
+        Bigram perplexity is 824.0330331475145
+        Trigram perplexity is 591.1510504034037
+
+Sentence: A couple of well-known opposition politicians, a chief minister and a federal cabinet minister of the previous pro-Musharraf government, were
+publicly thrashed, raising doubts about government control over law and order in the country.
+        Unigram perplexity is 1481.9744250545634
+        Bigram perplexity is 835.933934597927
+        Trigram perplexity is 599.8558048605379
+
+Sentence: So far, Musharraf has accepted his diminishing stature quietly -- though he has few other options.
+        Unigram perplexity is 1502.6519796806208
+        Bigram perplexity is 847.9904424491309
+        Trigram perplexity is 608.0759983289597
+
+Sentence: The new political leadership, both inside and outside the parliament, has been carefully avoiding a head-on collision with the president.
+        Unigram perplexity is 1521.480388844262
+        Bigram perplexity is 858.7070604038016
+        Trigram perplexity is 615.4162545507825
+
+Sentence: Interestingly, in the midst of the political transition, Musharraf embarked on a week-long visit to China to lobby for construction of an oil
+and gas pipeline between China and the Persian Gulf that would be routed through Pakistan.
+        Unigram perplexity is 1540.4972298293724
+        Bigram perplexity is 869.8145763786002
+        Trigram perplexity is 623.6104079178515
+
+Sentence: The deeper question raised by this proposal is whether Musharraf meant to convey a message to the US that Pakistan's priorities were shifting.
+        Unigram perplexity is 1558.8288827039444
+        Bigram perplexity is 879.7161923390562
+        Trigram perplexity is 630.9002156185268
+
+Sentence: The revival of democratic politics in Pakistan will undoubtedly effect Pakistan-US relations.
+        Unigram perplexity is 1580.397448549946
+        Bigram perplexity is 892.5064839907792
+        Trigram perplexity is 639.4257083990967
+
+Sentence: Pakistan's military links with America appear to remain on a sound footing, so the strategic alliance with the US is likely to continue, perhaps with some nuanced differences over how to fight the "war on terror."
+        Unigram perplexity is 1599.8616732620003
+        Bigram perplexity is 904.08346368739
+        Trigram perplexity is 647.4776828370167
+
+Sentence: But Pakistani politicians are bound to be influenced by domestic public opinion, which is generally critical of US policies.
+        Unigram perplexity is 1620.2622708453227
+        Bigram perplexity is 916.130591798702
+        Trigram perplexity is 655.4502554995798
+
+Sentence: Nevertheless, long-term US interests in the region will be better served if Pakistan's democratic forces successfully establish themselves.
+        Unigram perplexity is 1640.3895560835988
+        Bigram perplexity is 927.4088435906119
+        Trigram perplexity is 663.0607250941268
+
+Sentence: A proposal in the US Senate to increase development and education aid to Pakistan could help in winning the hearts and minds.
+        Unigram perplexity is 1657.3664487476785
+        Bigram perplexity is 937.5160708804162
+        Trigram perplexity is 669.7770402789339
+
+Sentence: Meanwhile, President George W. Bush has said that "if another September 11-style attack is being planned, it probably is being plotted in Pakistan and not Afghanistan."
+        Unigram perplexity is 1679.7263801131191
+        Bigram perplexity is 949.7143550046262
+        Trigram perplexity is 678.6946053920078
+
+Sentence: Whether this American intelligence assessment is based on credible information is unknown.
+        Unigram perplexity is 1697.8912497085614
+        Bigram perplexity is 960.4790687712028
+        Trigram perplexity is 686.1249436010693
+
+Sentence: American election-year politics may also be behind this assertion.
+        Unigram perplexity is 1717.017574430805
+        Bigram perplexity is 971.5654740029892
+        Trigram perplexity is 693.1012020190701
+
+Sentence: But it is significant that Bush decided to voice this view during Pakistan's political transition.
+        Unigram perplexity is 1736.903946373005
+        Bigram perplexity is 983.162732895491
+        Trigram perplexity is 700.9662994154943
+
+Sentence: Pakistan must take this view seriously, regardless of Bush's motivations.
+        Unigram perplexity is 1759.3038190781383
+        Bigram perplexity is 995.1056073604537
+        Trigram perplexity is 709.0726708731091
+
+Sentence: The new government should quickly devise a policy to deal with terrorism.
+        Unigram perplexity is 1780.33053507484
+        Bigram perplexity is 1006.8240627394382
+        Trigram perplexity is 716.1192216045829
+
+Sentence: Recent months have seen dozens of suicide bombings and other terrorist activities -- the price of Pakistan's own past blunders, as well as those of the West.
+        Unigram perplexity is 1799.6792636767575
+        Bigram perplexity is 1017.5227472106909
+        Trigram perplexity is 724.2291664371105
+
+Sentence: Afghanistan is a prime example, as is the failure to settle the Kashmir imbroglio with India.
+        Unigram perplexity is 1818.3318771788945
+        Bigram perplexity is 1029.3318760470079
+        Trigram perplexity is 733.8536876388474
+
+Sentence: Both failures have strengthened domestic terrorist groups.
+        Unigram perplexity is 1837.4417554226602
+        Bigram perplexity is 1041.4967188439641
+        Trigram perplexity is 742.6519864788455
+
+Sentence: Pakistan's government appears to be preparing to talk to some of the extremists in the tribal areas, introduce political reforms, and redouble development efforts.
+        Unigram perplexity is 1856.6856711699454
+        Bigram perplexity is 1052.2709288458723
+        Trigram perplexity is 749.6814818124647
+
+Sentence: But reference to "talks" makes the West uncomfortable.
+        Unigram perplexity is 1882.29670028031
+        Bigram perplexity is 1065.2306636402282
+        Trigram perplexity is 758.9957515693831
+
+Sentence: American officials have likened this strategy to negotiating with terrorists, and point to a previous round of negotiations that did nothing to stop violence in the tribal areas.
+        Unigram perplexity is 1899.5882579942102
+        Bigram perplexity is 1075.7189687433786
+        Trigram perplexity is 766.4118209641849
+
+Sentence: But the new leadership wants to distinguish between al-Qaeda terrorists and religious conservatives and disillusioned Pashtun youth within Pakistan.
+        Unigram perplexity is 1919.2651095543458
+        Bigram perplexity is 1088.2676023423394
+        Trigram perplexity is 775.855786120067
+
+Sentence: After all, the victory of the secular Awami National Party (ANP) in Pakistan's North-West Frontier Province is a strong indication that people there have rejected religious political forces and violence.
+        Unigram perplexity is 1939.1915441918957
+        Bigram perplexity is 1098.9478298807633
+        Trigram perplexity is 783.2513275414832
+
+Sentence: This window of opportunity can be expanded through dialogue and reconciliation with those who are ready to disavow extremism and militancy.
+        Unigram perplexity is 1959.0305543355214
+        Bigram perplexity is 1110.3626527823385
+        Trigram perplexity is 791.2154514366914
+
+Sentence: The new Pakistani government needs to explain this to the West in order to keep its support.
+        Unigram perplexity is 1976.251463655485
+        Bigram perplexity is 1120.9379682091023
+        Trigram perplexity is 798.4118597821147
+
+Sentence: The US, meanwhile, should end direct military strikes in the area, even if these are conducted with the knowledge and cooperation of Pakistan's military.
+        Unigram perplexity is 1995.3995236419703
+        Bigram perplexity is 1131.0302321152103
+        Trigram perplexity is 805.2302240054682
+
+Sentence: Force has never worked with the Pashtun tribes, and there is no evidence that this has changed.
+        Unigram perplexity is 2013.1622149606926
+        Bigram perplexity is 1140.3261977787508
+        Trigram perplexity is 811.8967257843995
+
+Sentence: There are real signs that the new government is considered a credible partner in the tribal areas.
+        Unigram perplexity is 2029.355449894693
+        Bigram perplexity is 1150.1719247421618
+        Trigram perplexity is 818.5545124302054
+
+File: training.en
+        Average unigram perplexity is 20.293554498946932
+        Average bigram perplexity is 11.501719247421617
+        Average trigram perplexity is 8.185545124302054
+
+File: training.de
+        Average unigram perplexity is Infinity
+        Average bigram perplexity is Infinity
+        Average trigram perplexity is Infinity
+		
+File: training.es
+        Average unigram perplexity is Infinity
+        Average bigram perplexity is Infinity
+        Average trigram perplexity is Infinity
